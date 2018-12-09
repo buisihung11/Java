@@ -167,7 +167,7 @@ public class StudentManager {
         menuMain.addSubMenuOption(3,"2.Delete student");
         menuMain.addSubMenuOption(3,"3.Back to main menu ");
         //submenu_2
-        menuMain.getSubmenu(3).addSubMenu(1,"Update a Student Info");
+        menuMain.getSubmenu(3).addSubMenu(1,"Update a Student Info2");
         menuMain.getSubmenu(3).addSubMenuOption(1,"1.Update Name");
         menuMain.getSubmenu(3).addSubMenuOption(1,"2.Add a new Course");
         menuMain.getSubmenu(3).addSubMenuOption(1,"3.Remove a Course");
