@@ -1,0 +1,11 @@
+HR-Human Resource:
+E001,Nguyen Van Hoa,241
+E002,Tran Trung Truc,190
+E005,Tran Hung Dung,290
+E006,Bich Ngoc,550
+TD-Technic Department:
+E009,Nguyen Van Toan, 320
+E007,Kuong Thong Dat,250
+AR-Accounting Department:
+E121,Nguyen Hung Chi,520
+E075,Tran Thi Bich Thuan,10
